@@ -27,7 +27,7 @@ observer_lat = 40.7127492
 observer_lng = -74.0059945
 observer_alt = 0
 seconds = 1
-api_key = "L6UN7M-VLF578-ZFEC2R-56G4"
+api_key = "Your API Key Here"
 
 satellite_info(satIDs, observer_lat, observer_lng, observer_alt, seconds, api_key)
 
